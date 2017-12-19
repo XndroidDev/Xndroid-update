@@ -1,0 +1,7 @@
+Xndroid 1.1.2
+    * 修复 Android 8.0 启动失败
+    * 增加root模式启动fqrouter(可使用fqrouter的pick & play 等功能共享代理网络)
+    * root下可导入为系统证书
+    * teredo长时间连不上时自动更换服务器
+    * 一些优化
+    # 如果新版本运行异常,请报告日志,并退回旧版

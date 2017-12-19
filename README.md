@@ -1,0 +1,1 @@
+provide test versions and update information for Xndroid

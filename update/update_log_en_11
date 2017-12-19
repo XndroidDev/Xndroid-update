@@ -1,0 +1,2 @@
+Xndroid 1.1.1
+    * fix failed to list /proc/self/fd

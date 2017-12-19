@@ -1,0 +1,4 @@
+Xndroid 1.1.0
+    * 添加fqrouter
+    * 添加teredo支持
+    * 优化代码结构

@@ -1,0 +1,5 @@
+Xndroid 1.1.2
+    * fix Android 8.0 launch fail
+    * add root launch mode for fqroute
+    * add import system certificate when run in root
+    # Please report the logs and rollback to the old  version, if it is unusable.
