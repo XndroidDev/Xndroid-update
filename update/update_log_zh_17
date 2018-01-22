@@ -1,3 +1,5 @@
-Xndroid 1.1.7
+Xndroid 1.1.7-1
     * teredo服务器可自行更换
     * 在新任务栈中启动LightningBrowser
+    * 更新国内域名和ip段
+    * 可在`/sdcard/domain_whitelist.txt`添加自定义直连域名

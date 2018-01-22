@@ -1,4 +1,6 @@
-Xndroid 1.1.7
+Xndroid 1.1.7-1
     * Teredo server can be input by user
     * Launch lightningBrowser in a new task stack
+    * Update china domain and ip
+    * Add user domain whitelist (`/sdcard/domain_whitelist.txt`)
 	
