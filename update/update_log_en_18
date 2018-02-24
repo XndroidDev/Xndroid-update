@@ -1,0 +1,5 @@
+Xndroid 1.1.8
+    * Update to 3.10.4
+    * fix GAE br issue (net::ERR_CONTENT_DECODING_FAILED)
+    * fix XX-Net http2 issue
+    * fix Android 8.0 + notification issue

@@ -1,0 +1,5 @@
+Xndroid 1.1.8
+    * 内置XX-Net更换为 3.10.4
+    * 修复XX-Net GAE 的br编码问题(net::ERR_CONTENT_DECODING_FAILED)
+    * 修复XX-Net http2 连接问题
+    * 修复Android 8.0 + 通知消息问题
