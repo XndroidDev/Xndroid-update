@@ -1,4 +1,4 @@
-Xndroid 1.1.8
+Xndroid 1.1.9
     * 内置XX-Net更换为 3.10.4
     * 修复XX-Net GAE 的br编码问题(net::ERR_CONTENT_DECODING_FAILED)
     * 修复XX-Net http2 连接问题
