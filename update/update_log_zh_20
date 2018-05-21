@@ -1,2 +1,3 @@
 Xndroid 1.1.10
     更新XX-Net到3.11.7
+    原生ipv6可用时禁用teredo
